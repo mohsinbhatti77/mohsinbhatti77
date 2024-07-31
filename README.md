@@ -13,8 +13,7 @@
 <p align="left">
 <a href="www.linkedin.com/in/muhammad-mohsin-590b412a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-mohsin-590b412a0/" height="30" width="40" /></a>
 <a href="https://kaggle.com/mkb776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mkb776" height="30" width="40" />
-  <a class="no-underline text-blue-700 m-2" href="https://fb.com/muhammad mohsin" target="blank"><img class="w-6 h-6" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="username"></a>
-  <a class="no-underline text-blue-700 m-2" href="https://www.leetcode.com/mohsinhacker99" target="blank"><img class="w-6 h-6" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="username"></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

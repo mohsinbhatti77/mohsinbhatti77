@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinbhatti77&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinbhatti77" /> </p>
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Good at **Machine Learning, Deep Learning and GenAI**
 

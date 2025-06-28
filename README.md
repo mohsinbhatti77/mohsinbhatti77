@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mohsin</h1>
-<h3 align="center">Junior Machine Learning Engineer</h3>
+<h3 align="center">Data Scientist with ML, DL and GenAI</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinbhatti77&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinbhatti77" /> </p>
 
-- 🌱 I’m currently learning **Generative AI,Pytorch , Numpy , TensorFlow**
+- 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Machine Learning, Deep Learning**
+- 💬 Good at **Machine Learning, Deep Learning and GenAI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mohsin</h1>
-<h3 align="center">Data Scientist with ML, DL and GenAI</h3>
+<h3 align="center">Data Science with ML, DL and GenAI</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
